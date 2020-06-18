@@ -18,11 +18,11 @@ samples, guidance on mobile development, and a full API reference.
 UI Screen
 
 
-<img src="https://github.com/Randhirj007/flutter_food_ui/blob/master/screen3.jpeg" alt="Screen1" width="600" height="300">
+<img src="https://github.com/Randhirj007/flutter_food_ui/blob/master/screen3.jpeg" alt="Screen1" width="240" height="600">
 
 
-<img src="https://github.com/Randhirj007/flutter_food_ui/blob/master/screen2.jpeg" alt="Screen1" width="600" height="300">
+<img src="https://github.com/Randhirj007/flutter_food_ui/blob/master/screen2.jpeg" alt="Screen1" width="240" height="600">
 
-<img src="https://github.com/Randhirj007/flutter_food_ui/blob/master/screen1.jpeg" alt="Screen1" width="600" height="300">
+<img src="https://github.com/Randhirj007/flutter_food_ui/blob/master/screen1.jpeg" alt="Screen1" width="240" height="600">
 
 
