@@ -15,10 +15,14 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-UI Screen:
-![https://github.com/Randhirj007/flutter_food_ui/blob/master/screen1.jpeg]
-https://github.com/Randhirj007/flutter_food_ui/blob/master/screen1.jpeg
+UI Screen
 
-https://github.com/Randhirj007/flutter_food_ui/blob/master/screen2.jpeg
 
-https://github.com/Randhirj007/flutter_food_ui/blob/master/screen3.jpeg
+<img src="https://github.com/Randhirj007/flutter_food_ui/blob/master/screen3.jpeg" alt="Screen1" width="600" height="300">
+
+
+<img src="https://github.com/Randhirj007/flutter_food_ui/blob/master/screen2.jpeg" alt="Screen1" width="600" height="300">
+
+<img src="https://github.com/Randhirj007/flutter_food_ui/blob/master/screen1.jpeg" alt="Screen1" width="600" height="300">
+
+
