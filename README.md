@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 UI Screen:
-
+![https://github.com/Randhirj007/flutter_food_ui/blob/master/screen1.jpeg]
 https://github.com/Randhirj007/flutter_food_ui/blob/master/screen1.jpeg
 
 https://github.com/Randhirj007/flutter_food_ui/blob/master/screen2.jpeg
